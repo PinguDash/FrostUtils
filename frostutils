@@ -1,0 +1,5 @@
+command /fu:
+    trigger:
+        if player is op:
+            send "&eFrostUtils Help &7Page 1" to player
+            send "/fu 
